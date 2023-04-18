@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something amazing
+- 🌱 I’m currently learning about being a father
+- 💬 Ask me about anything
+- 📫 How to reach me: sergio.mattioli@gmail.com
 <!--
 **sergiomattioli/sergiomattioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
